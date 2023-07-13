@@ -421,6 +421,7 @@ repositories = [
   'github.com/mavoweb/mavo',
   'github.com/mcollina/autocannon',
   'github.com/mdx-js/mdx',
+  'github.com/swarupe7/MedPlant',
   'github.com/medusajs/medusa',
   'github.com/meilisearch/MeiliSearch',
   'github.com/mermaid-js/mermaid',
